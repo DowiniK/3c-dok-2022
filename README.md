@@ -2,5 +2,5 @@
 Lorem ipsum dolor sit amet consectetur apidiscit elit
 
 ## O čom to bude 
-ooo
-nehehe
+- ooo
+- nehehe
