@@ -7,3 +7,5 @@ Lorem ipsum dolor sit amet consectetur apidiscit elit
 
 Jeden znak alebo jeden riadok
 :)
+
+Ďakujem za pozornosť
