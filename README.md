@@ -9,3 +9,6 @@ Jeden znak alebo jeden riadok
 :)
 
 Ďakujem za pozornosť
+
+
+Dobrý večer posielam vam domácu úlohu teda úlohu na doma
